@@ -28,4 +28,14 @@ img {
 
 .info {
     display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-top: 32px;
+}
+
+.plant {
+}
+
+.text {
+    width: 200px;
 }
